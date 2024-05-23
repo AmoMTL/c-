@@ -1,0 +1,14 @@
+/Users/amogha/Projects/C#/FizzBuzzChallenge/obj/Debug/net8.0/FizzBuzzChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amogha/Projects/C#/FizzBuzzChallenge/obj/Debug/net8.0/FizzBuzzChallenge.AssemblyInfoInputs.cache
+/Users/amogha/Projects/C#/FizzBuzzChallenge/obj/Debug/net8.0/FizzBuzzChallenge.AssemblyInfo.cs
+/Users/amogha/Projects/C#/FizzBuzzChallenge/obj/Debug/net8.0/FizzBuzzChallenge.csproj.CoreCompileInputs.cache
+/Users/amogha/Projects/C#/FizzBuzzChallenge/bin/Debug/net8.0/FizzBuzzChallenge
+/Users/amogha/Projects/C#/FizzBuzzChallenge/bin/Debug/net8.0/FizzBuzzChallenge.deps.json
+/Users/amogha/Projects/C#/FizzBuzzChallenge/bin/Debug/net8.0/FizzBuzzChallenge.runtimeconfig.json
+/Users/amogha/Projects/C#/FizzBuzzChallenge/bin/Debug/net8.0/FizzBuzzChallenge.dll
+/Users/amogha/Projects/C#/FizzBuzzChallenge/bin/Debug/net8.0/FizzBuzzChallenge.pdb
+/Users/amogha/Projects/C#/FizzBuzzChallenge/obj/Debug/net8.0/FizzBuzzChallenge.dll
+/Users/amogha/Projects/C#/FizzBuzzChallenge/obj/Debug/net8.0/refint/FizzBuzzChallenge.dll
+/Users/amogha/Projects/C#/FizzBuzzChallenge/obj/Debug/net8.0/FizzBuzzChallenge.pdb
+/Users/amogha/Projects/C#/FizzBuzzChallenge/obj/Debug/net8.0/FizzBuzzChallenge.genruntimeconfig.cache
+/Users/amogha/Projects/C#/FizzBuzzChallenge/obj/Debug/net8.0/ref/FizzBuzzChallenge.dll

@@ -1,0 +1,14 @@
+/Users/amogha/Projects/C#/coinFlip/bin/Debug/net8.0/coinFlip
+/Users/amogha/Projects/C#/coinFlip/bin/Debug/net8.0/coinFlip.deps.json
+/Users/amogha/Projects/C#/coinFlip/bin/Debug/net8.0/coinFlip.runtimeconfig.json
+/Users/amogha/Projects/C#/coinFlip/bin/Debug/net8.0/coinFlip.dll
+/Users/amogha/Projects/C#/coinFlip/bin/Debug/net8.0/coinFlip.pdb
+/Users/amogha/Projects/C#/coinFlip/obj/Debug/net8.0/coinFlip.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amogha/Projects/C#/coinFlip/obj/Debug/net8.0/coinFlip.AssemblyInfoInputs.cache
+/Users/amogha/Projects/C#/coinFlip/obj/Debug/net8.0/coinFlip.AssemblyInfo.cs
+/Users/amogha/Projects/C#/coinFlip/obj/Debug/net8.0/coinFlip.csproj.CoreCompileInputs.cache
+/Users/amogha/Projects/C#/coinFlip/obj/Debug/net8.0/coinFlip.dll
+/Users/amogha/Projects/C#/coinFlip/obj/Debug/net8.0/refint/coinFlip.dll
+/Users/amogha/Projects/C#/coinFlip/obj/Debug/net8.0/coinFlip.pdb
+/Users/amogha/Projects/C#/coinFlip/obj/Debug/net8.0/coinFlip.genruntimeconfig.cache
+/Users/amogha/Projects/C#/coinFlip/obj/Debug/net8.0/ref/coinFlip.dll

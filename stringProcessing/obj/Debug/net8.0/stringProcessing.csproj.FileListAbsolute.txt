@@ -1,0 +1,14 @@
+/Users/amogha/Projects/C#/stringProcessing/obj/Debug/net8.0/stringProcessing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amogha/Projects/C#/stringProcessing/obj/Debug/net8.0/stringProcessing.AssemblyInfoInputs.cache
+/Users/amogha/Projects/C#/stringProcessing/obj/Debug/net8.0/stringProcessing.AssemblyInfo.cs
+/Users/amogha/Projects/C#/stringProcessing/obj/Debug/net8.0/stringProcessing.csproj.CoreCompileInputs.cache
+/Users/amogha/Projects/C#/stringProcessing/bin/Debug/net8.0/stringProcessing
+/Users/amogha/Projects/C#/stringProcessing/bin/Debug/net8.0/stringProcessing.deps.json
+/Users/amogha/Projects/C#/stringProcessing/bin/Debug/net8.0/stringProcessing.runtimeconfig.json
+/Users/amogha/Projects/C#/stringProcessing/bin/Debug/net8.0/stringProcessing.dll
+/Users/amogha/Projects/C#/stringProcessing/bin/Debug/net8.0/stringProcessing.pdb
+/Users/amogha/Projects/C#/stringProcessing/obj/Debug/net8.0/stringProcessing.dll
+/Users/amogha/Projects/C#/stringProcessing/obj/Debug/net8.0/refint/stringProcessing.dll
+/Users/amogha/Projects/C#/stringProcessing/obj/Debug/net8.0/stringProcessing.pdb
+/Users/amogha/Projects/C#/stringProcessing/obj/Debug/net8.0/stringProcessing.genruntimeconfig.cache
+/Users/amogha/Projects/C#/stringProcessing/obj/Debug/net8.0/ref/stringProcessing.dll

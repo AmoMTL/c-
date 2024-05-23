@@ -1,0 +1,14 @@
+/Users/amogha/Projects/C#/validateIntegerInput/obj/Debug/net8.0/validateIntegerInput.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amogha/Projects/C#/validateIntegerInput/obj/Debug/net8.0/validateIntegerInput.AssemblyInfoInputs.cache
+/Users/amogha/Projects/C#/validateIntegerInput/obj/Debug/net8.0/validateIntegerInput.AssemblyInfo.cs
+/Users/amogha/Projects/C#/validateIntegerInput/obj/Debug/net8.0/validateIntegerInput.csproj.CoreCompileInputs.cache
+/Users/amogha/Projects/C#/validateIntegerInput/bin/Debug/net8.0/validateIntegerInput
+/Users/amogha/Projects/C#/validateIntegerInput/bin/Debug/net8.0/validateIntegerInput.deps.json
+/Users/amogha/Projects/C#/validateIntegerInput/bin/Debug/net8.0/validateIntegerInput.runtimeconfig.json
+/Users/amogha/Projects/C#/validateIntegerInput/bin/Debug/net8.0/validateIntegerInput.dll
+/Users/amogha/Projects/C#/validateIntegerInput/bin/Debug/net8.0/validateIntegerInput.pdb
+/Users/amogha/Projects/C#/validateIntegerInput/obj/Debug/net8.0/validateIntegerInput.dll
+/Users/amogha/Projects/C#/validateIntegerInput/obj/Debug/net8.0/refint/validateIntegerInput.dll
+/Users/amogha/Projects/C#/validateIntegerInput/obj/Debug/net8.0/validateIntegerInput.pdb
+/Users/amogha/Projects/C#/validateIntegerInput/obj/Debug/net8.0/validateIntegerInput.genruntimeconfig.cache
+/Users/amogha/Projects/C#/validateIntegerInput/obj/Debug/net8.0/ref/validateIntegerInput.dll

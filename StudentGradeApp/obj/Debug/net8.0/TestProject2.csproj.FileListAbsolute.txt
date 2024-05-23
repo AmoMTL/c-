@@ -1,0 +1,14 @@
+/Users/amogha/Projects/C#/TestProject2/bin/Debug/net8.0/TestProject2
+/Users/amogha/Projects/C#/TestProject2/bin/Debug/net8.0/TestProject2.deps.json
+/Users/amogha/Projects/C#/TestProject2/bin/Debug/net8.0/TestProject2.runtimeconfig.json
+/Users/amogha/Projects/C#/TestProject2/bin/Debug/net8.0/TestProject2.dll
+/Users/amogha/Projects/C#/TestProject2/bin/Debug/net8.0/TestProject2.pdb
+/Users/amogha/Projects/C#/TestProject2/obj/Debug/net8.0/TestProject2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amogha/Projects/C#/TestProject2/obj/Debug/net8.0/TestProject2.AssemblyInfoInputs.cache
+/Users/amogha/Projects/C#/TestProject2/obj/Debug/net8.0/TestProject2.AssemblyInfo.cs
+/Users/amogha/Projects/C#/TestProject2/obj/Debug/net8.0/TestProject2.csproj.CoreCompileInputs.cache
+/Users/amogha/Projects/C#/TestProject2/obj/Debug/net8.0/TestProject2.dll
+/Users/amogha/Projects/C#/TestProject2/obj/Debug/net8.0/refint/TestProject2.dll
+/Users/amogha/Projects/C#/TestProject2/obj/Debug/net8.0/TestProject2.pdb
+/Users/amogha/Projects/C#/TestProject2/obj/Debug/net8.0/TestProject2.genruntimeconfig.cache
+/Users/amogha/Projects/C#/TestProject2/obj/Debug/net8.0/ref/TestProject2.dll

@@ -1,0 +1,14 @@
+/Users/amogha/Projects/C#/MyFirstApp/bin/Debug/net8.0/MyFirstApp
+/Users/amogha/Projects/C#/MyFirstApp/bin/Debug/net8.0/MyFirstApp.deps.json
+/Users/amogha/Projects/C#/MyFirstApp/bin/Debug/net8.0/MyFirstApp.runtimeconfig.json
+/Users/amogha/Projects/C#/MyFirstApp/bin/Debug/net8.0/MyFirstApp.dll
+/Users/amogha/Projects/C#/MyFirstApp/bin/Debug/net8.0/MyFirstApp.pdb
+/Users/amogha/Projects/C#/MyFirstApp/obj/Debug/net8.0/MyFirstApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amogha/Projects/C#/MyFirstApp/obj/Debug/net8.0/MyFirstApp.AssemblyInfoInputs.cache
+/Users/amogha/Projects/C#/MyFirstApp/obj/Debug/net8.0/MyFirstApp.AssemblyInfo.cs
+/Users/amogha/Projects/C#/MyFirstApp/obj/Debug/net8.0/MyFirstApp.csproj.CoreCompileInputs.cache
+/Users/amogha/Projects/C#/MyFirstApp/obj/Debug/net8.0/MyFirstApp.dll
+/Users/amogha/Projects/C#/MyFirstApp/obj/Debug/net8.0/refint/MyFirstApp.dll
+/Users/amogha/Projects/C#/MyFirstApp/obj/Debug/net8.0/MyFirstApp.pdb
+/Users/amogha/Projects/C#/MyFirstApp/obj/Debug/net8.0/MyFirstApp.genruntimeconfig.cache
+/Users/amogha/Projects/C#/MyFirstApp/obj/Debug/net8.0/ref/MyFirstApp.dll
