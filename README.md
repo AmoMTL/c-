@@ -1,5 +1,7 @@
 # Repo Overview
 
+Notes and projects undertaken while completing the C# course offered by Microsoft<sup>[[1]](https://learn.microsoft.com/en-us/collections/yz26f8y64n7k07)</sup>.
+
 ## Projects
 
 | Title | Links |
